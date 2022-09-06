@@ -5,8 +5,7 @@ theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
-  subtitle: We are the cynphetic collective. # todo: change default subtitle for your website.
+  subtitle: We are the cynphetic collective # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: ATAI # todo: set your full name.
   dontShowSource: false # please, do not do this :)
