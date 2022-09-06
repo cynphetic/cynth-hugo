@@ -47,12 +47,9 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: nature
-      url: /tags/nature/
-      weight: 2
     - name: archive
       url: /tags/archive/
-      weight: 3
+      weight: 2
     # - name: about
     #   url: /about/
     #   weight: 4

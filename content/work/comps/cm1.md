@@ -1,14 +1,12 @@
 ---
-weight: 3
+weight: 2
 images:
-- https://source.unsplash.com/random?bunny&590225707
-title: bunny 3
+- /images/cm1.png
+title: CЯiTiCAL MiSS
 date: 2022-07-23
 tags:
-- work # homepage
-- archive # all posts
-- bunny
-- nature
+- work
+- archive
 ---
 
 # Markdown
